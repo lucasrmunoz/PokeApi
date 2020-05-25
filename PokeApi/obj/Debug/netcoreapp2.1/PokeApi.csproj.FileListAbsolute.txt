@@ -1,0 +1,12 @@
+D:\Dev\PokeApi\PokeApi\bin\Debug\netcoreapp2.1\PokeApi.deps.json
+D:\Dev\PokeApi\PokeApi\bin\Debug\netcoreapp2.1\PokeApi.runtimeconfig.json
+D:\Dev\PokeApi\PokeApi\bin\Debug\netcoreapp2.1\PokeApi.runtimeconfig.dev.json
+D:\Dev\PokeApi\PokeApi\bin\Debug\netcoreapp2.1\PokeApi.dll
+D:\Dev\PokeApi\PokeApi\bin\Debug\netcoreapp2.1\PokeApi.pdb
+D:\Dev\PokeApi\PokeApi\obj\Debug\netcoreapp2.1\PokeApi.csprojAssemblyReference.cache
+D:\Dev\PokeApi\PokeApi\obj\Debug\netcoreapp2.1\PokeApi.AssemblyInfoInputs.cache
+D:\Dev\PokeApi\PokeApi\obj\Debug\netcoreapp2.1\PokeApi.AssemblyInfo.cs
+D:\Dev\PokeApi\PokeApi\obj\Debug\netcoreapp2.1\PokeApi.dll
+D:\Dev\PokeApi\PokeApi\obj\Debug\netcoreapp2.1\PokeApi.pdb
+D:\Dev\PokeApi\PokeApi\obj\Debug\netcoreapp2.1\PokeApi.genruntimeconfig.cache
+D:\Dev\PokeApi\PokeApi\obj\Debug\netcoreapp2.1\PokeApi.csproj.CoreCompileInputs.cache
